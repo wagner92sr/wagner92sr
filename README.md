@@ -7,5 +7,5 @@ Software Developer @DBC Company
 [![Gmail Badge](https://img.shields.io/badge/-wagnersr92@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnersr92@gmail.com)](mailto:wagnersr92@gmail.com)
 
 Atualmente trabalho como desenvolvedor PL/SQL atuando dentro do cliente Sicredi que é um gigante do setor financeiro.
-Estou participando do Bootcamp Ignite da Rocketseat, para me especializar na criação de REST API's utilizando Node.js. Em breve pretendo realizar os bootcamps de React e React Native para estar pronto para atuar em qualquer desafio web e mobile.
+Estou participando do Bootcamp Ignite da Rocketseat, para me especializar na criação aplicações utilizando React.js. Em breve pretendo realizar os bootcamps de Node.js e React Native para estar pronto para atuar em qualquer desafio web e mobile.
 
